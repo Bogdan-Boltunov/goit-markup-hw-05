@@ -696,16 +696,6 @@ color: #ffffff;
     margin-bottom: 16px;
 }
 
-
-.form-div-label {
-    font-size: 12px;
-    line-height: 1.17;
-    letter-spacing: 0.04em;
-    color: var(--label-color);
-    display: block;
-    margin-bottom: 4px;
-}
-
 .form-textarea {
     width: 100%;
     height: 120px;
@@ -764,10 +754,10 @@ color: #ffffff;
     margin-right: 8px;
 }
 
-/* .privacy-href {
-    color: var(--button-text-color);
+.privacy-href {
+    color: #4d5ae5;;
     display: inline-block;
-} */
+}
 
 .input-place-check {
     width: 100%;
